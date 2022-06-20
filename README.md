@@ -1,4 +1,4 @@
-## Hi there👋
+# Hi there👋
 
 #### I'm David from Santiago, Chile, a Front-End Developer.
 
