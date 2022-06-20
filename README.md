@@ -2,7 +2,7 @@
 
 #### I'm David from Santiago, Chile, a Front-End Developer.
 
-![github](https://user-images.githubusercontent.com/91069463/174680373-725ed322-8233-4b6f-8075-b7733a53d73b.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/91069463/174680978-5324098c-743d-4494-9b1a-fd4ea1203dbd.gif)
 
 ## 👨‍💻 My knowledge
 <ul>
