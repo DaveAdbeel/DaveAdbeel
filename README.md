@@ -2,6 +2,8 @@
 
 #### I'm David from Santiago, Chile, a Front-End Developer.
 
+![github](https://user-images.githubusercontent.com/91069463/174680373-725ed322-8233-4b6f-8075-b7733a53d73b.gif)
+
 ## 👨‍💻 My knowledge
 <ul>
 <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=ffff00"/> 
