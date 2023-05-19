@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-fff?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-111?style=flat-square&logo=Python&logoColor=090"/>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 </ul>
 
 
@@ -20,14 +22,15 @@
 <ul>
 <img src="https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=0f0"/>
 <img src="https://img.shields.io/badge/Express-282C34?style=flat-square&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
 </ul>
 
 ## 🔍 What I am interested in learning
 <ul>
-<img src="https://img.shields.io/badge/Python-111?style=flat-square&logo=Python&logoColor=090"/>
+
 <img src="https://img.shields.io/badge/MongoDB-1a391c?style=flat-square&logo=mongodb&logoColor=0f0" />
 <img src="https://img.shields.io/badge/Sass-c36d8f?style=flat-square&logo=sass&logoColor=fff" />
 <img src="https://img.shields.io/badge/React-00a?style=flat-square&logo=React"/>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+
 </ul>
