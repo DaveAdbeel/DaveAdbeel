@@ -20,8 +20,6 @@
 
 ## 📖 I'm currently learning
 <ul>
-<img src="https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=0f0&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Express-282C34?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </ul>
 
