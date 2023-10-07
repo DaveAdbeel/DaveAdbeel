@@ -15,18 +15,18 @@
 <img src="https://img.shields.io/badge/Linux-fff?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=Python&logoColor=090"/>
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </ul>
 
 
 ## 📖 I'm currently learning
 <ul>
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-00a?style=for-the-badge&logo=React"/>
+<img src="https://img.shields.io/badge/MongoDB-1a391c?style=for-the-badge&logo=mongodb&logoColor=0f0" />
 </ul>
 
 ## 🔍 What I am interested in learning
 <ul>
-<img src="https://img.shields.io/badge/MongoDB-1a391c?style=for-the-badge&logo=mongodb&logoColor=0f0" />
 <img src="https://img.shields.io/badge/Sass-c36d8f?style=for-the-badge&logo=sass&logoColor=fff" />
-<img src="https://img.shields.io/badge/React-00a?style=for-the-badge&logo=React"/>
 <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
 </ul>
