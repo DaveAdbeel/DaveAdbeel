@@ -1,5 +1,7 @@
 # I'm David from Santiago, Chile, a Development Lover.
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/91069463/174680978-5324098c-743d-4494-9b1a-fd4ea1203dbd.gif)
+
 ---
 
 ## Stack
