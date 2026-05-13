@@ -28,6 +28,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Ballerina](https://img.shields.io/badge/Ballerina-20B6B0?style=for-the-badge&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 **Databases**
 
